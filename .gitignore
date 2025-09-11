@@ -18,4 +18,6 @@
 .env*
 
 .next
+node_modules
+.next
 
